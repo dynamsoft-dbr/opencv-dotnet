@@ -1,5 +1,5 @@
 # Barcode Reader with OpenCV.Net
-Use OpenCV.Net to create a barcode reader app on Windows.
+Use [OpenCV.Net](https://www.nuget.org/packages/OpenCvSharp3-AnyCPU) and [Dynamsoft Barcode Reader](https://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) to create a barcode reader app on Windows.
 
 ## Environment
 * Visual Studio 2015
