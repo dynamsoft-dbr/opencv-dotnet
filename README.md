@@ -8,3 +8,5 @@ Use [OpenCV.Net](https://www.nuget.org/packages/OpenCvSharp3-AnyCPU) and [Dynams
 1. Load the project to Visual Studio.
 2. Connect a webcam to PC.
 3. Build and run the app. Use 'ESC' to quit the app.
+
+![.NET barcode reader](screenshots/multi-rtsp.PNG)
