@@ -10,3 +10,5 @@ Use [OpenCV.Net](https://www.nuget.org/packages/OpenCvSharp3-AnyCPU) and [Dynams
 3. Build and run the app. Use 'ESC' to quit the app.
 
 ![.NET barcode reader](screenshots/multi-rtsp.PNG)
+
+![.NET barcode with OpenCV](screenshots/opencv-dotnet-barcode.PNG)
