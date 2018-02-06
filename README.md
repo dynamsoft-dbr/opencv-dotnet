@@ -12,3 +12,6 @@ Use [OpenCV.Net](https://www.nuget.org/packages/OpenCvSharp3-AnyCPU) and [Dynams
 ![.NET barcode reader](screenshots/multi-rtsp.PNG)
 
 ![.NET barcode with OpenCV](screenshots/opencv-dotnet-barcode.PNG)
+
+## Blog
+[Building .NET Barcode Reader with OpenCV and DBR 5.2](http://www.codepool.biz/dotnet-barcode-reader-opencv-dbr.html)
